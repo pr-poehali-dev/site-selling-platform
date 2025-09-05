@@ -60,7 +60,7 @@ export default function Index() {
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-2">
               <Icon name="Code" className="text-primary" size={32} />
-              <span className="text-2xl font-bold text-foreground">WebAgency</span>
+              <span className="text-2xl font-bold text-foreground">Sdct</span>
             </div>
             <div className="hidden md:flex items-center space-x-8">
               <a href="#home" className="text-muted-foreground hover:text-primary transition-colors">Главная</a>
@@ -291,7 +291,7 @@ export default function Index() {
             <div>
               <div className="flex items-center space-x-2 mb-4">
                 <Icon name="Code" className="text-primary" size={32} />
-                <span className="text-2xl font-bold">WebAgency</span>
+                <span className="text-2xl font-bold">Sdct</span>
               </div>
               <p className="text-muted opacity-80">
                 Профессиональная разработка веб-решений для вашего бизнеса
@@ -310,7 +310,7 @@ export default function Index() {
               <h3 className="text-lg font-semibold mb-4">Контакты</h3>
               <ul className="space-y-2 text-muted opacity-80">
                 <li>+7 (999) 123-45-67</li>
-                <li>info@webagency.ru</li>
+                <li>info@sdct.ru</li>
                 <li>г. Москва, ул. Примерная, д. 1</li>
               </ul>
             </div>
@@ -325,7 +325,7 @@ export default function Index() {
           </div>
           <div className="border-t border-muted/20 mt-8 pt-8 text-center">
             <p className="text-muted opacity-60">
-              © 2024 WebAgency. Все права защищены.
+              © 2024 Sdct. Все права защищены.
             </p>
           </div>
         </div>
